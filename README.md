@@ -82,24 +82,24 @@ cd-benefit-calculator/
 
 ## 🧪 Setup (Virtual Environment)
 
-## Step 1: Create Virtual Environment
+### Step 1: Create Virtual Environment
 ```bash 
 python -m venv test_env
 ```
 
-## Step 2: Activate Virtual Environment 
+### Step 2: Activate Virtual Environment 
 
-### Mac / Linux
+#### Mac / Linux
 ```bash
 source test_env/bin/activate
 ```
 
-### Windows(Command Prompt)
+#### Windows(Command Prompt)
 ```bash
 test_env\Scripts\activate
 ```
 
-### Windows (PowerShell):
+#### Windows (PowerShell):
 ```bash
 test_env\Scripts\Activate.ps1
 ```
@@ -108,22 +108,22 @@ test_env\Scripts\Activate.ps1
 
 ## ⚙️ Run Instructions
 
-# 1. Clone repo
+### 1. Clone repo
 ```bash
 git clone https://github.com/adityayadav4507/cd-benefit-calculator.git
 ```
 
-# 2. Go inside folder
+### 2. Go inside folder
 ```bash
 cd cd-benefit-calculator
 ```
 
-# 3. Install dependencies
+### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-# 4. Run app
+### 4. Run app
 ```bash
 streamlit run app.py
 ```
