@@ -138,8 +138,8 @@ streamlit run app.py
 
 ### 🔹 Upload Interface
 <p align="center">
-  <img src="assets/upload_page.png" width="500"/>
-  <img src="assets/select_img.png" width="500"/>
+  <img src="assets/upload_page.png" width="400"/>
+  <img src="assets/select_img.png" width="400"/>
 </p>
 
 ---
