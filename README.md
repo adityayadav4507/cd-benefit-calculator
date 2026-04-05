@@ -84,7 +84,7 @@ cd-benefit-calculator/
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/<adityayadav4507>/cd-benefit-calculator.git
+git clone https://github.com/adityayadav4507/cd-benefit-calculator.git
 
 # 2. Go inside folder
 cd cd-benefit-calculator
