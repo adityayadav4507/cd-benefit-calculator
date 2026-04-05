@@ -138,24 +138,18 @@ streamlit run app.py
 
 ### 🔹 Upload Interface
 <p align="center">
-  <img src="assets/upload_page.png" width="400"/>
+  <img src="assets/upload_page.png" width="500"/>
+  <img src="assets/select_img.png" width="500"/>
 </p>
 
 ---
 
 ### 🔹 Part 1 & Part 2
 <p align="center">
-  <img src="assets/demo_1.png" width="400"/>
-  <img src="assets/demo_2.png" width="400"/>
+  <img src="assets/demo_1.png" width="500"/>
+  <img src="assets/demo_2.png" width="500"/>
 </p>
 
----
-
-### 🔹 File Selection
-
-<p align="center">
-  <img src="assets/select_img.png" width="400"/>
-</p>
 ---
 
 ### 🎥 Demo Recording
