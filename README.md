@@ -73,6 +73,9 @@ cd-benefit-calculator/
     ├── upload_page.png
     ├── select_img.png
     └── demo_screenrecording.mov
+ └── outputs/
+    ├── output.json
+    └── output.txt
 ```
 
 ---
@@ -81,7 +84,7 @@ cd-benefit-calculator/
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/<your-username>/cd-benefit-calculator.git
+git clone https://github.com/<adityayadav4507>/cd-benefit-calculator.git
 
 # 2. Go inside folder
 cd cd-benefit-calculator
