@@ -140,26 +140,22 @@ streamlit run app.py
 <p align="center">
   <img src="assets/upload_page.png" width="400"/>
 </p>
-![Upload Page](assets/upload_page.png)
 
 ---
 
-### 🔹 Part 1 — Loan Cost Summary
-
-![Part 1](assets/demo_1.png)
-
----
-
-### 🔹 Part 2 — Escrow & Payoff Summary
-
-![Part 2](assets/demo_2.png)
+### 🔹 Part 1 & Part 2
+<p align="center">
+  <img src="assets/demo_1.png" width="400"/>
+  <img src="assets/demo_2.png" width="400"/>
+</p>
 
 ---
 
 ### 🔹 File Selection
 
-![Select File](assets/select_img.png)
-
+<p align="center">
+  <img src="assets/select_img.png" width="400"/>
+</p>
 ---
 
 ### 🎥 Demo Recording
