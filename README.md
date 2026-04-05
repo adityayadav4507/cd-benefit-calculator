@@ -137,7 +137,9 @@ streamlit run app.py
 ## 📸 Demo
 
 ### 🔹 Upload Interface
-
+<p align="center">
+  <img src="assets/upload_page.png" width="400"/>
+</p>
 ![Upload Page](assets/upload_page.png)
 
 ---
