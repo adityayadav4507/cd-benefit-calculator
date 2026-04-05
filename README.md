@@ -72,7 +72,7 @@ cd-benefit-calculator/
     ├── demo_2.png
     ├── upload_page.png
     ├── select_img.png
-    └── demo_screenrecording.mov
+    └── demo_screenrecording.mp4
  └── outputs/
     ├── output.json
     └── output.txt
