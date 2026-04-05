@@ -83,7 +83,9 @@ cd-benefit-calculator/
 ## 🧪 Setup (Virtual Environment)
 
 ## Step 1: Create Virtual Environment
+```bash 
 python -m venv test_env
+```
 
 ## Step 2: Activate Virtual Environment 
 
