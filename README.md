@@ -80,6 +80,24 @@ cd-benefit-calculator/
 
 ---
 
+## 🧪 Setup (Virtual Environment)
+
+## Step 1: Create Virtual Environment
+python -m venv test_env
+
+## Step 2: Activate Virtual Environment 
+
+### Mac / Linux
+source test_env/bin/activate
+
+### Windows(Command Prompt)
+test_env\Scripts\activate
+
+### Windows (PowerShell):
+test_env\Scripts\Activate.ps1
+
+---
+
 ## ⚙️ Run Instructions
 
 ```bash
@@ -144,7 +162,7 @@ streamlit run app.py
 
 ### 🎥 Demo Recording
 
-👉 [Watch Demo Video](assets/demo_screenrecording.mov)
+👉 [Watch Demo Video](assets/demo_screenrecording.mp4)
 
 ---
 
@@ -162,3 +180,4 @@ streamlit run app.py
 
 **Aditya Yadav**
 IIT (BHU), Varanasi
+
