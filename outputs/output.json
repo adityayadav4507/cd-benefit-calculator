@@ -1,0 +1,13 @@
+{
+    "part1": {
+        "Section D(Sum)": 7544.11,
+        "Total Cost of Loan": 8979.11,
+        "Benefits": -4502.89
+    },
+    "part2": {
+        "Excess Amount over Payoff": 12252.54,
+        "Escrows + Prepaid": 6975.51,
+        "Escrows + Prepaid + Excess Payoff": 19228.05,
+        "Benefits": 5017.89
+    }
+}

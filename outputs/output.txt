@@ -1,0 +1,11 @@
+===== Benefit Summary =====
+
+Part 1 — Loan Cost
+Section D: $7,544.11
+Total Cost: $8,979.11
+Benefit: $-4,502.89
+
+Part 2 — Escrow & Payoff
+Excess: $12,252.54
+Escrow + Prepaid: $6,975.51
+Final Benefit: $5,017.89
